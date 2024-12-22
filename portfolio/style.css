@@ -1,0 +1,12 @@
+.nav{
+    background-color: #0f72a8;
+    display: flex;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-family: "Playwrite HR Lijeva Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

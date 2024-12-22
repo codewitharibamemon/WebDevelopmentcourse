@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: brown;
+    color: blanchedalmond;
+    font-size: 50px;
+}
+
+#para1{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.maryam{
+    background-color: chartreuse;
+    color: beige;
+    font-size: 30px;
+}

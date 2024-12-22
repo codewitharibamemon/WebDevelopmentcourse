@@ -1,0 +1,30 @@
+.section{
+    width: 100%;
+    display: flex;
+    position: relative;
+    gap: 16px;
+    flex-direction: column;
+    position: relative;
+   
+}
+
+.box1{
+    background-color: rgb(11, 76, 133);
+    height: 100px;
+    padding: 20px;
+    position: absolute;
+    z-index: -1;
+   
+}
+
+.box2{
+    background-color: rgb(55, 181, 27);
+    height: 100px;
+    z-index: 0;
+}
+.box3{
+    background-color: rgb(133, 11, 94);
+    height: 100px;
+ 
+   
+}

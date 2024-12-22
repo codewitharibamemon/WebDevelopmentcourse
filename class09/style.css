@@ -1,0 +1,40 @@
+*{
+    background-color: white;
+    color: rgb(5, 3, 3);
+    
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    font-family: sans-serif
+}
+.heading1{
+    font-family: serif
+}
+
+a:hover{
+    color: #dc3545;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+   justify-content: space-between;
+   padding: 10px;
+}
+
+.logo{
+    margin: 10px;
+}
+
+
+.head{
+    display: flex;
+}
+
+.para{
+    font-family: "Poppins", sans-serif;
+}
